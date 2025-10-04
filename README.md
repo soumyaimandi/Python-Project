@@ -1,4 +1,6 @@
 🛒 Python Price Tracker with Web Scraping & Email Alerts
+
+
 📌 Overview
 
 This project is a Python-based price tracker that uses web scraping to monitor the price of any product (Amazon, Flipkart, etc.). If the product’s price drops below your set target, the script will automatically send you an email alert.
